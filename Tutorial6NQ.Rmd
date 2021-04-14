@@ -30,3 +30,9 @@ geom_point()
 grid.arrange(p1, p2)
 ```
 
+# Figure
+
+```{r}
+knitr::include_graphics("fig/Luna_cat.png")
+```
+
